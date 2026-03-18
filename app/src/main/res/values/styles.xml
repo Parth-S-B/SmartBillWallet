@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar"> <!-- Updated parent theme -->
+        <item name="colorPrimary">@color/colorPrimary</item> <!-- Reference to color resource -->
+        <item name="colorPrimaryDark">@color/my_status_bar_color</item> <!-- Use defined color -->
+        <item name="colorAccent">@color/colorAccent</item> <!-- Reference to color resource -->
+
+        <!-- Customize action bar and status bar colors -->
+        <item name="android:statusBarColor">@color/my_status_bar_color</item> <!-- For API 21+ -->
+        <item name="android:navigationBarColor">@color/colorPrimary</item> <!-- Customize navigation bar color -->
+
+        <!-- Other customizations can be added here -->
+    </style>
+</resources>

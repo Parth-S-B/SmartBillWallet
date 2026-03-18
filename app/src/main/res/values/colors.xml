@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="back">#061971</color>
+    <color name="yello">#FFEB3B</color>
+    <color name="colorAccent">#061971</color>
+    <color name="colorPrimary">#061971</color>
+
+        <color name="my_status_bar_color">#061971</color> <!-- Replace with your color -->
+
+
+</resources>

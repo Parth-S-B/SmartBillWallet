@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SmartBillWallet</string>
+
+    <string-array name="category_options">
+        <item>All</item>
+        <item>Date</item>
+        <item>Amount</item>
+        <item>Category</item>
+        <!-- Add more categories as needed -->
+    </string-array>
+
+</resources>
